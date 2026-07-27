@@ -1,23 +1,67 @@
 aid: ihaveu
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ihaveu.png
 name: Ihaveu
-description: Ihaveu is a company surfaced as a portfolio company of lightspeed-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Ihaveu (优众网, ihaveu.com) was a Chinese business-to-consumer luxury fashion
+  e-commerce platform founded in 2010 by Sun Tongyu (a former president of
+  Alibaba's Taobao) and Chen Xiao. Based in China, it sold curated high-end
+  designer apparel and accessories from international couture brands such as
+  Prada, Hermes, and Marc Jacobs to Chinese consumers. It raised a Series A of
+  roughly $11M in December 2010 led by IDG Capital and Lightspeed Venture
+  Partners, followed by a Series B in 2012 that added The CID Group and JAFCO
+  Asia. The company is no longer active and its ihaveu.com domain is now parked
+  and listed for sale, so it exposes no live website, developer portal, or public
+  API. This profile is retained in the API Evangelist network as an identity
+  record for a defunct Lightspeed portfolio company; it has no API surface to
+  enrich.
 url: https://raw.githubusercontent.com/api-evangelist/ihaveu/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - lightspeed-venture-partners
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: defunct-no-api-surface
+x-status: defunct
+x-founded: '2010'
+x-founders:
+- Sun Tongyu
+- Chen Xiao
+x-chinese-name: 优众网
+x-investors:
+- IDG Capital
+- Lightspeed Venture Partners
+- The CID Group
+- JAFCO Asia
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- E-Commerce
+- Luxury
+- Fashion
+- Retail
+- China
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
