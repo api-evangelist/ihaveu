@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/ihaveu/integrations
+- https://n8n.io/integrations/ihaveu/
+- https://composio.dev/toolkits/ihaveu
+- https://monid.ai/tools/ihaveu
+checked:
+- https://composio.dev/toolkits/ihaveu
+- https://monid.ai/tools/ihaveu
+- https://n8n.io/integrations/ihaveu/
+- https://zapier.com/apps/ihaveu/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
