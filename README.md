@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ihaveu is a company surfaced as a portfolio company of lightspeed-venture-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: lightspeed-venture-partners
+Ihaveu (优众网, ihaveu.com) was a Chinese business-to-consumer luxury fashion e-commerce platform founded in 2010 by Sun Tongyu (a former president of Alibaba's Taobao) and Chen Xiao. Based in China, it sold curated high-end designer apparel and accessories from international couture brands such as Prada, Hermes, and Marc Jacobs to Chinese consumers. It raised a Series A of roughly $11M in December 2010 led by IDG Capital and Lightspeed Venture Partners, followed by a Series B in 2012 that added The CID Group and JAFCO Asia. The company is no longer active and its ihaveu.com domain is now parked and listed for sale, so it exposes no live website, developer portal, or public API. This profile is retained in the API Evangelist network as an identity record for a defunct Lightspeed portfolio company; it has no API surface to enrich.
+
+**Areas:** Company · E-Commerce · Luxury · Fashion · Retail · China · Defunct
+
+## Ihaveu on APIs.io (historical record)
+
+Everything profiled for Ihaveu is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ihaveu/](https://apis.io/providers/ihaveu/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ihaveu: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ihaveu/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
